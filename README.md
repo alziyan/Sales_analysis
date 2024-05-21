@@ -35,7 +35,7 @@ To run this project, you will need to have Python installed along with the follo
   
 ## Usage
 Clone the repository and navigate to the project directory:
-git clone https://github.com/yourusername/diwali-sales-analysis.git
+git clone https://github.com/alziyan/diwali-sales-analysis.git
 cd diwali-sales-analysis
 
 
